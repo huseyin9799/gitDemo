@@ -7,5 +7,7 @@ public class HappyB20 {
             System.out.print(i+" ");
         }
         System.out.println("git status");
+        
+        System.out.println("Some code");
     }
 }
